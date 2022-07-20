@@ -59,14 +59,14 @@ h1{
     height: 3rem;
     font-weight: 500;
     font-size: 1rem;
-    color: white;
-    background: #DD0000;
+    color: black;
+    background: white;
     border-radius: 5px;
 
 }
 
-.button_container > a:active{
-    background: #a78282;
+.act{
+    background: #DD0000;
 }
 
 
